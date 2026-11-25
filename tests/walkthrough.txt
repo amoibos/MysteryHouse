@@ -1,0 +1,84 @@
+u
+open door
+go door
+get note
+read note
+look room
+w
+open cabinet
+look cabinet
+get matches
+open refrigerator
+look refrigerator
+get pitcher
+look sink
+get butterknife
+water on
+get water
+e
+e
+get note
+w
+s
+get candle
+light candle
+look
+pour water
+look hole
+get key
+n
+u
+e
+go door
+get dagger
+go door
+w
+n
+n
+go door
+use butterknife
+get picture
+press button
+e
+get towel
+go door
+go wall
+d
+d
+get key
+wipe algae
+get bricks
+get jewels
+go hole
+n
+u
+look telescope
+d
+d
+n
+s
+open door
+u
+e
+u
+n
+u
+get sledgehammer
+go door
+unlock trunk
+open trunk
+look trunk
+get gun
+go door
+open trapdoor
+go trapdoor
+shoot gun
+go trapdoor
+d
+s
+d
+unlock door
+open door
+n
+d
+n

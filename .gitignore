@@ -1,0 +1,36 @@
+# SDCC / ihx2sms build output
+build/
+*.rel
+*.asm
+*.lst
+*.sym
+*.adb
+*.cdb
+*.ihx
+*.lk
+*.map
+*.noi
+
+# host test build and emulator captures
+tests/mh_host.exe
+tests/walkthrough.out
+tests/walkthrough_packed.out
+tests/mh_host_packed.exe
+tests/packed/
+test-output/
+__pycache__/
+
+# PICO-8 itself (Lexaloffle, proprietary), not needed by the build: keep it out of the repo
+original/pico8.exe
+original/pico8.dat
+original/SDL2.dll
+original/lexaloffle-pico8.png
+original/pico-8_manual.txt
+original/license.txt
+
+# the ROM is built with make (and published as a release)
+/mystery_house.SC
+
+
+# tools/export_pictures.py
+/export/

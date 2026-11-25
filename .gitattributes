@@ -1,0 +1,8 @@
+# text files use LF everywhere (SDCC, Python and sh do not need CRLF)
+* text=auto eol=lf
+
+# binary data
+*.dsk binary
+*.mid binary
+*.SC binary
+*.png binary
